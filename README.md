@@ -1,4 +1,4 @@
-# Loan Sahayak
+# Loan Predictor
 
 Loan Sahayak is a web application designed to predict loan eligibility based on user inputs using machine learning models. The application predicts whether a loan will be approved or denied for an individual.
 
